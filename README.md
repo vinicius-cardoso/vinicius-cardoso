@@ -5,7 +5,6 @@ Meu nome é Vinicius e sou desenvolvedor de software;
 - 📍  Belo horizonte, Brasil
 - :school:  5º Período de Engenharia de Sistemas - UFMG 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-cardoso)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-cardoso)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
