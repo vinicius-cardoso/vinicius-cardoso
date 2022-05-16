@@ -1,4 +1,4 @@
-# Olá1!
+# Olá!
 
 Meu nome é Vinicius e sou desenvolvedor de software;
 
