@@ -1,6 +1,6 @@
 # Olá!
 
-Meu nome é Vinicius e sou desenvolvedor de software;
+Meu nome é Vinicius e atualmente sou desenvolvedor de software;
 
 - :round_pushpin:   Belo Horizonte, Brasil
 - :school:    6º Período de Engenharia de Sistemas - UFMG 
