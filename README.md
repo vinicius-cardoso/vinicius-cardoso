@@ -3,7 +3,7 @@
 Meu nome é Vinicius e sou desenvolvedor de software;
 
 - :round_pushpin:   Belo Horizonte, Brasil
-- :school:    5º Período de Engenharia de Sistemas - UFMG 
+- :school:    6º Período de Engenharia de Sistemas - UFMG 
 - :book:    Estudando C++, Python (Django) e Javascript
 - :heart:   Maior interesse em Sistemas Embarcados e Segurança da Informação
 
