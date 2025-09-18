@@ -3,15 +3,9 @@
 Meu nome é Vinicius e atualmente sou desenvolvedor de software;
 
 - :round_pushpin:   Belo Horizonte, Brasil
-- :school:    10º Período de Engenharia de Sistemas - UFMG 
+- :school:    12º Período de Engenharia de Sistemas - UFMG 
 - :book:    Trabalhando com C++, Python (Django) e Javascript
 - :heart:   Estudando segurança da informação
-
-
-## GitHub Status
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-cardoso)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Entre em contato!
 
