@@ -1,15 +1,123 @@
-# Olá!
+# Hi, I'm Vinicius 👋
 
-Meu nome é Vinicius e atualmente sou desenvolvedor de software;
+I'm a **Backend Software Engineer** based in Belo Horizonte, Brazil, with 4+ years of professional experience building and maintaining production software.
 
-- :round_pushpin:   Belo Horizonte, Brasil
-- :school:    12º Período de Engenharia de Sistemas - UFMG 
-- :book:    Trabalhando com C++, Python (Django) e Javascript
-- :heart:   Estudando segurança da informação
+My main stack is **Python, Django, PostgreSQL, AWS, and Linux**, with additional experience in application security, cloud security, performance optimization, DevSecOps, and system maintenance.
 
-## Entre em contato!
+I am currently completing my **Bachelor's degree in Systems Engineering at the Federal University of Minas Gerais (UFMG)**.
 
-<div>
-  <a href = "mailto: vinicius.mct17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+## 💻 What I work with
+
+### Backend
+
+* Python
+* Django
+* PostgreSQL
+* SQL
+* REST APIs
+* Legacy system maintenance and refactoring
+* Performance and query optimization
+
+### Cloud & Infrastructure
+
+* AWS
+* Amazon S3
+* Linux
+* Docker
+* Bash
+* Nginx
+* Git
+
+### Security
+
+* Application Security
+* Vulnerability identification and remediation
+* AWS security
+* Backup and data protection strategies
+* DevSecOps practices
+* Security documentation and process organization
+
+### Other technologies
+
+* JavaScript
+* jQuery
+* C
+* C++
+* ESP32
+* Arduino
+
+## 🚀 Professional highlights
+
+Some of the problems I have worked on professionally include:
+
+* Optimizing database queries and application logic, reducing execution times from **minutes to seconds**
+* Redesigning backup retention and compression processes, reducing Amazon S3 storage usage from **tens of terabytes to only a few gigabytes**
+* Implementing automated SQL schema backups with compression and S3 storage
+* Identifying major application vulnerabilities and creating structured remediation plans
+* Refactoring and modernizing large modules in a production SaaS platform
+* Implementing secure token-based document-signature workflows
+* Designing new document numbering and external document-printing features
+* Performing code reviews and supporting junior developers and interns
+
+## 🧠 Currently interested in
+
+* Backend architecture
+* Distributed systems
+* Platform Engineering
+* DevSecOps
+* Cloud infrastructure
+* Application Security
+* Performance optimization
+* AI-assisted development
+
+## 🎓 Education
+
+**Bachelor's Degree in Systems Engineering**
+Federal University of Minas Gerais — UFMG
+Expected graduation: 2026
+
+**Technical Degree in Mechatronics**
+CEFET-MG
+
+## 🛠️ Selected tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
+
+## 🔧 Personal projects
+
+Outside of work, I enjoy building projects involving:
+
+* ESP32 and Arduino
+* Embedded systems
+* Computer networks
+* Backend applications
+* Linux infrastructure
+* Data structures and algorithms
+* Computer architecture
+* Automation
+
+I'm currently working on new projects that combine backend engineering, infrastructure, and security.
+
+## 🌎 Languages
+
+* Portuguese — Native
+* English — Professional working proficiency
+* Italian — Elementary
+* German — Elementary
+
+## 📫 Contact
+
+<a href="mailto:vinicius.mct17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/vinicius-c/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
