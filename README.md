@@ -2,7 +2,7 @@
 
 I'm a **Backend Software Engineer** based in Belo Horizonte, Brazil, with 4+ years of professional experience building and maintaining production software.
 
-My main stack is **Python, Django, PostgreSQL, AWS, and Linux**, with additional experience in application security, cloud security, performance optimization, DevSecOps, and system maintenance.
+My main stack is **Python, Django, PostgreSQL, AWS, and Linux**, and lately I have been building AI-powered solutions, integrating LLMs into products and automations. I also have experience with application security, performance optimization, and system maintenance.
 
 I am currently completing my **Bachelor's degree in Systems Engineering at the Federal University of Minas Gerais (UFMG)**.
 
@@ -17,6 +17,14 @@ I am currently completing my **Bachelor's degree in Systems Engineering at the F
 * REST APIs
 * Legacy system maintenance and refactoring
 * Performance and query optimization
+
+### AI
+
+* LLM integration (Anthropic / OpenAI APIs)
+* FastAPI + Pydantic for AI services
+* RAG, agents, and tool use
+* Workflow automation with n8n
+* AI-assisted development
 
 ### Cloud & Infrastructure
 
@@ -34,7 +42,6 @@ I am currently completing my **Bachelor's degree in Systems Engineering at the F
 * Vulnerability identification and remediation
 * AWS security
 * Backup and data protection strategies
-* DevSecOps practices
 * Security documentation and process organization
 
 ### Other technologies
@@ -51,21 +58,18 @@ I am currently completing my **Bachelor's degree in Systems Engineering at the F
 Some of the problems I have worked on professionally include:
 
 * Optimizing database queries and application logic, reducing execution times from **minutes to seconds**
-* Redesigning backup retention and compression processes, reducing Amazon S3 storage usage from **tens of terabytes to only a few gigabytes**
+* Designing a configurable custom-URL print feature (HTTP method, headers, proxy) that lets new document types be added through configuration instead of code, integrated with external automations (n8n)
 * Implementing automated SQL schema backups with compression and S3 storage
 * Identifying major application vulnerabilities and creating structured remediation plans
 * Refactoring and modernizing large modules in a production SaaS platform
 * Implementing secure token-based document-signature workflows
-* Designing new document numbering and external document-printing features
 * Performing code reviews and supporting junior developers and interns
 
 ## 🧠 Currently interested in
 
 * Backend architecture
-* Distributed systems
-* Platform Engineering
-* DevSecOps
-* Cloud infrastructure
+* AI Engineering (building with LLMs)
+* Building AI-powered products and automations
 * Application Security
 * Performance optimization
 * AI-assisted development
@@ -102,15 +106,16 @@ Outside of work, I enjoy building projects involving:
 * Data structures and algorithms
 * Computer architecture
 * Automation
+* AI-powered tools and LLM integrations
 
-I'm currently working on new projects that combine backend engineering, infrastructure, and security.
+I'm currently working on new projects that combine backend engineering with AI.
 
 ## 🌎 Languages
 
 * Portuguese — Native
-* English — Professional working proficiency
-* Italian — Elementary
-* German — Elementary
+* English — Intermediate
+* Italian — Intermediate
+* German — Basic
 
 ## 📫 Contact
 
