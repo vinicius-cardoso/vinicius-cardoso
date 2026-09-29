@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Engineer** based in Belo Horizonte, Brazil, with 5+ years of professional experience building and maintaining production software.
 
-My main stack is **Python, Django, FastAPI, Typescript, Node.js, React, PostgreSQL, AWS, and Linux**, and lately I have been building AI-powered solutions, integrating LLMs into products and automations. I also have experience with application security, performance optimization, and system maintenance.
+My main stack is **Python, Django, FastAPI, Typescript, Node.js, PostgreSQL, AWS, and Linux**, and lately I have been building AI-powered solutions, integrating LLMs into products and automations. I also have experience with application security, performance optimization, and system maintenance.
 
 I am currently completing my **Bachelor's degree in Systems Engineering at the Federal University of Minas Gerais (UFMG)**.
 
@@ -15,7 +15,6 @@ I am currently completing my **Bachelor's degree in Systems Engineering at the F
 * FastAPI
 * TypeScript
 * Node.js
-* React
 * PostgreSQL
 * SQL
 * REST APIs
@@ -92,7 +91,6 @@ CEFET-MG
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
