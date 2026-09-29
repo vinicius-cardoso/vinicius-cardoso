@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Engineer** based in Belo Horizonte, Brazil, with 5+ years of professional experience building and maintaining production software.
 
-My main stack is **Python, Django, Typescript, Node.js, React, PostgreSQL, AWS, and Linux**, and lately I have been building AI-powered solutions, integrating LLMs into products and automations. I also have experience with application security, performance optimization, and system maintenance.
+My main stack is **Python, Django, FastAPI, Typescript, Node.js, React, PostgreSQL, AWS, and Linux**, and lately I have been building AI-powered solutions, integrating LLMs into products and automations. I also have experience with application security, performance optimization, and system maintenance.
 
 I am currently completing my **Bachelor's degree in Systems Engineering at the Federal University of Minas Gerais (UFMG)**.
 
