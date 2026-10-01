@@ -1,88 +1,39 @@
 # Hi, I'm Vinicius 👋
 
-I'm a **Full Stack Engineer** based in Belo Horizonte, Brazil, with 5+ years of professional experience building and maintaining production software.
+I'm a **Full Stack Software Engineer** in Belo Horizonte, Brazil, with over 4 years of experience building and maintaining a multi-tenant SaaS platform in the clinical engineering sector, used by more than 4,000 hospitals.
 
-My main stack is **Python, Django, FastAPI, Typescript, Node.js, PostgreSQL, AWS, and Linux**, and lately I have been building AI-powered solutions, integrating LLMs into products and automations. I also have experience with application security, performance optimization, and system maintenance.
+I enjoy building systems end to end, from architecture to implementation and documentation. I work mainly with **Python, Django, FastAPI, PostgreSQL and AWS**, plus **JavaScript, TypeScript and Node.js**.
 
-I am currently completing my **Bachelor's degree in Systems Engineering at the Federal University of Minas Gerais (UFMG)**.
+I'm in the final year of a **B.Sc. in Systems Engineering at UFMG** (Federal University of Minas Gerais).
 
-## 💻 What I work with
+## 🔌 Main project: [Wiredex](https://github.com/vinicius-cardoso/wiredex)
 
-### Backend
+A system to manage inventory, BOMs, pinouts, wiring and firmware for my hardware lab. Live at **[wiredex.vinilabs.cc](https://wiredex.vinilabs.cc)**.
 
-* Python
-* Django
-* FastAPI
-* TypeScript
-* Node.js
-* PostgreSQL
-* SQL
-* REST APIs
-* Legacy system maintenance and refactoring
-* Performance and query optimization
+* FastAPI, SQLAlchemy, PostgreSQL and TypeScript
+* Integration tests with Testcontainers and E2E tests with Playwright
+* Deploys with automatic rollback
+* Runs on a VM with 2 cores and less than 1 GB of RAM, a constraint that drove almost every architectural decision
 
-### AI
-
-* LLM integration (Anthropic / OpenAI APIs)
-* FastAPI + Pydantic for AI services
-* RAG, agents, and tool use
-* Workflow automation with n8n
-* AI-assisted development
-
-### Cloud & Infrastructure
-
-* AWS
-* Amazon S3
-* Linux
-* Docker
-* Bash
-* Nginx
-* Git
-
-### Security
-
-* Application Security
-* Vulnerability identification and remediation
-* AWS security
-* Backup and data protection strategies
-* Security documentation and process organization
-
-### Other technologies
-
-* JavaScript
-* C
-* C++
-* Arduino
+I also write about my projects, lessons learned and tutorials on my blog: **[vinilabs.cc](https://vinilabs.cc)**.
 
 ## 🚀 Professional highlights
 
-Some of the problems I have worked on professionally include:
+* Fixed N+1 queries in the Django ORM with eager loading: an equipment listing went from **1 min 30 s to 3 s**, 30 times faster, on one of the product's most used APIs
+* Traced a PostgreSQL write bottleneck where listing endpoints rewrote the Django session on every request, cutting writes to the session table from **28 million to 3 million**
+* Built a configurable registry that lets any print button call an external webhook (HTTP method, headers and body), enabling integration with automation tools like n8n
+* Provisioned a new production environment on AWS Elastic Beanstalk with Terraform, migrating from Classic to Application Load Balancer
+* Identified **four critical vulnerabilities** and followed the fixes through code reviews and testing
+* Refactored and fully modernized core modules (data structures, backend and interface)
+* Code reviews and onboarding of interns and junior developers
 
-* Optimizing database queries and application logic, reducing execution times from **minutes to seconds**
-* Designing a configurable custom-URL print feature (HTTP method, headers, proxy) that lets new document types be added through configuration instead of code, integrated with external automations (n8n)
-* Implementing automated SQL schema backups with compression and S3 storage
-* Identifying major application vulnerabilities and creating structured remediation plans
-* Refactoring and modernizing large modules in a production SaaS platform
-* Implementing secure token-based document-signature workflows
-* Performing code reviews and supporting junior developers and interns
+## 💻 What I work with
 
-## 🧠 Currently interested in
-
-* Backend architecture
-* AI Engineering (building with LLMs)
-* Building AI-powered products and automations
-* Application Security
-* Performance optimization
-* AI-assisted development
-
-## 🎓 Education
-
-**Bachelor's Degree in Systems Engineering**
-Federal University of Minas Gerais — UFMG
-Expected graduation: 2026
-
-**Technical Degree in Mechatronics**
-CEFET-MG
+* **Languages:** Python, JavaScript/TypeScript, C/C++, SQL, Bash
+* **Backend:** Django, FastAPI, Node.js
+* **Frontend:** JavaScript, jQuery, Angular
+* **Databases:** PostgreSQL, SQLite
+* **Infra & DevOps:** AWS, Terraform, Docker, Ansible, Git, CI/CD (GitHub Actions), Linux
 
 ## 🛠️ Selected tools
 
@@ -98,28 +49,22 @@ CEFET-MG
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
 
-## 🔧 Personal projects
+## 🔧 Outside work
 
-Outside of work, I enjoy building projects involving:
+I like projects that join software and hardware. My favorite so far is a sumo robot I built end to end: 3D modeling, 3D printing, PCB design in KiCad and ESP32 firmware.
 
-* ESP32 and Arduino
-* Embedded systems
-* Computer networks
-* Backend applications
-* Linux infrastructure
-* Data structures and algorithms
-* Computer architecture
-* Automation
-* AI-powered tools and LLM integrations
+## 🎓 Education
 
-I'm currently working on new projects that combine backend engineering with AI.
+**B.Sc. in Systems Engineering**, Federal University of Minas Gerais (UFMG), 2020 – 2026 (final year)
+
+**Technical Degree in Mechatronics**, CEFET-MG, 2017 – 2019
 
 ## 🌎 Languages
 
-* Portuguese — Native
-* English — Intermediate
-* Italian — Intermediate
-* German — Basic
+* Portuguese: native
+* English: intermediate
+* Italian: intermediate
+* German: basic
 
 ## 📫 Contact
 
