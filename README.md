@@ -1,5 +1,9 @@
 # Hi, I'm Vinicius 👋
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+</p>
+
 I'm a **Full Stack Software Engineer** in Belo Horizonte, Brazil, with over 4 years of experience building and maintaining a multi-tenant SaaS platform in the clinical engineering sector, used by more than 4,000 hospitals.
 
 I enjoy building systems end to end, from architecture to implementation and documentation. I work mainly with **Python, Django, FastAPI, PostgreSQL and AWS**, plus **JavaScript, TypeScript and Node.js**.
